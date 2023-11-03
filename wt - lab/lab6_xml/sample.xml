@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book>
+        <title>XML and DTD</title>
+        <author>John Doe</author>
+    </book>
+    <book>
+        <title>XSLT and XPath</title>
+        <author>Jane Smith</author>
+    </book>
+</books>
